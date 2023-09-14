@@ -1,6 +1,6 @@
 ---
 title: "W_UP_01"
-author: Latricia McCowan"
+author: Latricia"
 date: Fall 2023
 output: html_document
 ---
